@@ -1,4 +1,4 @@
-{"1:"Attend a initial meeting to ask queries you have. link for meeting - https://discord.gg/pqCP2wrgyy.",
+{"1:"Attend a initial meeting to ask queries you have,link for meeting - https://discord.gg/pqCP2wrgyy.",
 "2":"Order confirmation in the platform you are registered.",
 "3":"Connecting to team lead for daily meeting.",
 "4":"Execute the task - DESIGN > CODING > TESTING > DEPLOYMENT.",
